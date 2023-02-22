@@ -1,0 +1,4 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAL_PGpVo_c25DbiuTILcHVNSqp94swDlM</string>
+    <string name="app_name">locksmith_online</string>
+</resources>
