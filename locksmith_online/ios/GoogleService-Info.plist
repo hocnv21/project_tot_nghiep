@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>299651529836-iamt28sb2ttqvsrljqbaji1j4oak265m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.299651529836-iamt28sb2ttqvsrljqbaji1j4oak265m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>299651529836-e5oq1fjdrfds6a1kdj5clbrpchepr0hg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5GjHinuik7CXkB51NZhkyr7vYqHVmtsc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>299651529836</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.brain-game</string>
+	<key>PROJECT_ID</key>
+	<string>game-iq-35a18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>game-iq-35a18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:299651529836:ios:6fd718d1a5aeafe5efec49</string>
+</dict>
+</plist>
