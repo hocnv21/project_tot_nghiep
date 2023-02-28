@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "883139811738",
+    "project_id": "locksmith-4e9b8",
+    "storage_bucket": "locksmith-4e9b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883139811738:android:ab5571a79f89b20f058223",
+        "android_client_info": {
+          "package_name": "com.locksmith_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883139811738-nlnqadvluivgj14elqduucf3u1aha8nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locksmith_online",
+            "certificate_hash": "66d1f04d058beb86d286f9caf48f8be759aad266"
+          }
+        },
+        {
+          "client_id": "883139811738-hk2iac6lbkehkduf4pnmafvc0vlmpumu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskV5uxeu7R8FQuZ7w2vvBFZVI7gCnHv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883139811738-hk2iac6lbkehkduf4pnmafvc0vlmpumu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
